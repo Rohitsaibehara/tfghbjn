@@ -1,0 +1,144 @@
+﻿
+Ravi kanth Gojur
+Front End Developer | Machine Learning Engineer
+Smart Work, Thinking is my Advantage.
+ravikanthreddy8500@gmail.com
+8500059020
+Nizamabad, India
+linkedin.com/in/ravireddy07-harry
+twitter.com/ravi_reddy_07
+github.com/ravireddy07
+medium.com/@ravi_reddy_07
+SKILLS
+Python
+C++
+Java
+JavaScript
+Deep Learning
+React
+LANGUAGES
+English
+Professional Working Proficiency
+Hindi
+Limited Working Proficiency
+Telugu
+Native or Bilingual Proficiency
+HONOR AWARDS
+INSPIRE-2013 (08/2013 – 10/2013)
+Department of Science and Technology
+I invented a Multi-stove named 'Manual water heater cum Hearth' with the help of my Teacher P Srinivas sir, and showcased in 3rd National Level Exhibition and Project Competition by crossing all levels.
+EDUCATION
+Computer Science and Engineering
+Lovely Professional University
+08/2016 – PresentJalandhar, Punjab
+CERTIFICATES
+Deep learning NanoDegree (01/2019 – Present)
+Front End Web Developer NanoDegree (05/2018 – 11/2018)
+Data Structures and Algorithms using Python (08/2017 – 09/2017)
+Concepts of Data Structures and implementation using Python & Certified by IIT Madras(NPTEL).
+PERSONAL PROJECTS
+Dog Breed Classifier (02/2019 – 02/2019)
+This model capable of doing breed classification of a dog by just looking into its image. It is implemented using PyTorch library. This Project is done to cover and use the CNN Concept.
+Generate Faces (03/2019 – 04/2019)
+In this Project, I used Generative Adversarial Networks(GAN) to generate new images of faces by training the model with some sample images of celebrity photos/images.
+Memory Game (06/2018 – 06/2018)
+It is a jQuery based Memory Game. The goal of the game was to match two equal cards, have them stay open, change color and to continue this way until all cards have been matched together.
+"https://ravireddy07.github.io/GoogleIndiaScholarship_PCC2_Project_Memory-Game/"
+Classic Arcade Game (07/2018 – 07/2018)
+In this game you have a Player and Enemies. The goal of the player is to reach the water, without colliding into any one of the enemies. Once the player reaches the water the game is won.
+"https://ravireddy07.github.io/GoogleIndiaScholarship_PCC3_ClassicArcadeGame/"
+Pixel Art Maker (06/2018 – 06/2018)
+This is web app that allows users to draw pixel art on a customizable canvas. User can select the different specified color and length of canvas. User can hear the Music also while drawing pixels.
+Out of 300 Projects, My Project awarded as 1st & received a Goodie bag from Google-Udacity.
+"https://ravireddy07.github.io/GoogleIndiaScholarship_PCC_LAB_PixelArtMaker/"
+Restaurant Review App (08/2018 – 08/2018)
+This App will lists/shows a range of cuisines and neighbourgoods and a number of restaurants suggestions appear according to selections. Upon selecting a specific restaurant user receives info for the restaurant such as address, cuisine, opening hours, other user reviews and ratings.
+"https://ravireddy07.github.io/GoogleIndiaScholarship_PCC5_Restaurant_Review_App_Stage_1/"
+Neighborhood Map (09/2018 – 09/2018)
+A single page application featuring a neighborhood map and a listing of Beaches in Niterói, Brazil. The Google Maps API is used to generate the map. For More, Have a look at my GitHub Repo.
+ACHIEVEMENTS
+Google India ScholarShip (11/2017 – 11/2018)
+out of 10k participants from India, on given criteria and projects, only 0.3% will receive this scholarship. i'm one of those 300 Scholars.
+Facebook PyTorch Scholarship (11/2018 – 05/2019)
+out of 10k participants from all over the world, on some criteria and projects, only 0.3% will receive this scholarship. I'm one of those 300 Scholars.
+Ravi kanth Gojur
+Front End Developer | Machine Learning Engineer
+Smart Work, Thinking is my Advantage.
+ravikanthreddy8500@gmail.com
+8500059020
+Nizamabad, India
+linkedin.com/in/ravireddy07-harry
+twitter.com/ravi_reddy_07
+github.com/ravireddy07
+medium.com/@ravi_reddy_07
+SKILLS
+Python
+C++
+Java
+JavaScript
+Deep Learning
+React
+LANGUAGES
+English
+Professional Working Proficiency
+Hindi
+Limited Working Proficiency
+Telugu
+Native or Bilingual Proficiency
+HONOR AWARDS
+INSPIRE-2013 (08/2013 – 10/2013)
+Department of Science and Technology
+I invented a Multi-stove named 'Manual water heater cum Hearth' with the help of my Teacher P Srinivas sir, and showcased in 3rd National Level Exhibition and Project Competition by crossing all levels.
+
+EDUCATION
+Computer Science and Engineering
+Lovely Professional University
+08/2016 – PresentJalandhar, Punjab
+
+CERTIFICATES
+Deep learning NanoDegree (01/2019 – Present)
+
+Front End Web Developer NanoDegree (05/2018 – 11/2018)
+
+Data Structures and Algorithms using Python (08/2017 – 09/2017)
+Concepts of Data Structures and implementation using Python & Certified by IIT Madras(NPTEL).
+
+PERSONAL PROJECTS
+
+Dog Breed Classifier (02/2019 – 02/2019)
+This model capable of doing breed classification of a dog by just looking into its image. It is implemented using PyTorch library. This Project is done to cover and use the CNN Concept.
+
+Generate Faces (03/2019 – 04/2019)
+In this Project, I used Generative Adversarial Networks(GAN) to generate new images of faces by training the model with some sample images of celebrity photos/images.
+
+Memory Game (06/2018 – 06/2018)
+It is a jQuery based Memory Game. The goal of the game was to match two equal cards, have them stay open, change color and to continue this way until all cards have been matched together.
+"https://ravireddy07.github.io/GoogleIndiaScholarship_PCC2_Project_Memory-Game/"
+
+Classic Arcade Game (07/2018 – 07/2018)
+In this game you have a Player and Enemies. The goal of the player is to reach the water, without colliding into any one of the enemies. Once the player reaches the water the game is won.
+"https://ravireddy07.github.io/GoogleIndiaScholarship_PCC3_ClassicArcadeGame/"
+
+Pixel Art Maker (06/2018 – 06/2018)
+This is web app that allows users to draw pixel art on a customizable canvas. User can select the different specified color and length of canvas. User can hear the Music also while drawing pixels.
+Out of 300 Projects, My Project awarded as 1st & received a Goodie bag from Google-Udacity.
+"https://ravireddy07.github.io/GoogleIndiaScholarship_PCC_LAB_PixelArtMaker/"
+
+Restaurant Review App (08/2018 – 08/2018)
+This App will lists/shows a range of cuisines and neighbourgoods and a number of restaurants suggestions appear according to selections. Upon selecting a specific restaurant user receives info for the restaurant such as address, cuisine, opening hours, other user reviews and ratings.
+"https://ravireddy07.github.io/GoogleIndiaScholarship_PCC5_Restaurant_Review_App_Stage_1/"
+
+Neighborhood Map (09/2018 – 09/2018)
+A single page application featuring a neighborhood map and a listing of Beaches in Niterói, Brazil. The Google Maps API is used to generate the map. For More, Have a look at my GitHub Repo.
+
+ACHIEVEMENTS
+
+Google India ScholarShip (11/2017 – 11/2018)
+out of 10k participants from India, on given criteria and projects, only 0.3% will receive this scholarship. i'm one of those 300 Scholars.
+
+Facebook PyTorch Scholarship (11/2018 – 05/2019)
+out of 10k participants from all over the world, on some criteria and projects, only 0.3% will receive this scholarship. I'm one of those 300 Scholars.
+
+Page 1 of 1
+We have noticed that some premium features are selected/used. In order to download your professional resume, a premium account is required.
+
